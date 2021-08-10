@@ -1,4 +1,4 @@
-### get_next_line
+# get_next_line
 Reading a line on a fd is way too tedious. Made for 42sp.
 
 This project reads a file, line by line, putting a '\n' at the end of each line.
